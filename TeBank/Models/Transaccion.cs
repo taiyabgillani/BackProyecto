@@ -31,6 +31,8 @@ namespace TeBank.Models
 
         public DateTime Fechatransaccion { get; set; }
 
+        public int cedula { get; set }//borrar esto
+
 
     }
 

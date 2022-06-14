@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CSnGzgkLtFcGzV+3+dFKexP5O3ibUW8Z/6suPa7iz0B7pU5gRnoZ5onYdqtcmydJkynyc3vG1UfK4QB9gaX9Ow==",
+  "dgSpecHash": "9GL4lQP2d7XUMGaOPu+zwbP0BjrFv4Yvk/tuSRlzz34JgC+qbbPVsePbSt7h26HavkJ+kGyQfA08Zf31mY7gbQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\erick\\Desktop\\TeBank\\TeBank\\TeBank.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\erick\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
-    "C:\\Users\\erick\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\erick\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\erick\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
