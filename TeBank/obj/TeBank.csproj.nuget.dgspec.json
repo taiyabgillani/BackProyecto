@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TAIYAB\\Desktop\\BackProyecto\\TeBank\\TeBank.csproj": {}
+    "C:\\Users\\erick\\Source\\Repos\\BackProyecto\\TeBank\\TeBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TAIYAB\\Desktop\\BackProyecto\\TeBank\\TeBank.csproj": {
+    "C:\\Users\\erick\\Source\\Repos\\BackProyecto\\TeBank\\TeBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TAIYAB\\Desktop\\BackProyecto\\TeBank\\TeBank.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Source\\Repos\\BackProyecto\\TeBank\\TeBank.csproj",
         "projectName": "TeBank",
-        "projectPath": "C:\\Users\\TAIYAB\\Desktop\\BackProyecto\\TeBank\\TeBank.csproj",
-        "packagesPath": "C:\\Users\\TAIYAB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TAIYAB\\Desktop\\BackProyecto\\TeBank\\obj\\",
+        "projectPath": "C:\\Users\\erick\\Source\\Repos\\BackProyecto\\TeBank\\TeBank.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick\\Source\\Repos\\BackProyecto\\TeBank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TAIYAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

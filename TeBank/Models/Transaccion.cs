@@ -35,7 +35,7 @@ namespace TeBank.Models
         {
             TransaccionUnico = $"{Guid.NewGuid().ToString().Replace("-","").Substring(1, 27)}";
         }
-
+        public int MyProperty { get; set; }
 
     }
 
