@@ -37,6 +37,9 @@ namespace TeBank.Models
         }
         public int MyProperty { get; set; }
 
+
+        public int akil { get; set; }
+
     }
 
     public enum TransStatus
