@@ -31,7 +31,10 @@ namespace TeBank.Models
 
         public DateTime Fechatransaccion { get; set; }
 
-        public int cedula { get; set }//borrar esto
+        public Transaccion()
+        {
+            TransaccionUnico = $"{Guid.NewGuid().ToString().Replace("-","").Substring(1, 27)}";
+        }
 
 
     }

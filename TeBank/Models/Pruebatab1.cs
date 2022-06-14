@@ -7,5 +7,6 @@ namespace TeBank.Models
 {
     public class Pruebatab1
     {
+
     }
 }
